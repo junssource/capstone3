@@ -9,5 +9,5 @@
 <hr>
 
 
-개요 &nbsp;?<img src="rabbit.jpg">
+개요 &nbsp;?
 <div></div>
